@@ -1,0 +1,10 @@
+{
+    "DATABASE_FILE_PATH": "database/database.db",
+    "BACKUP_DATABASE_PATH": "database/backup.db",
+    "CERTIFICATE_PATH": "certificate/info2222.a1.crt",
+    "PRIVATE_KEY_PATH": "certificate/info2222.a1.key",
+    "HOST": "localhost",
+    "PORT": 8081,
+    "DEBUG": true,
+    "DEFAULT_COMMANDS": ["server"]
+}
